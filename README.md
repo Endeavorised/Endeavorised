@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Endeavorised</h1>
 <h3 align="center">I'm a Fullstack engineer from Croatia, I'm still a Student. I code all by myself.</h3>
 
-- File Integrity Monitor that hashes all changes made on a directory [FIM Tool](https://github.com/Endeavorised/FIM)
+-[FIM Tool](https://github.com/Endeavorised/FIM) File Integrity Monitor that hashes all changes made on a directory 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

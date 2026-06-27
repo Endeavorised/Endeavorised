@@ -1,13 +1,53 @@
-<h1 align="center">Hi 👋, I'm Endeavorised</h1>
-<h3 align="center">I'm a Fullstack engineer from Croatia, I'm still a Student. I code all by myself.</h3>
+Hey there, I'm Endeavorised! 👋
 
--[FIM Tool](https://github.com/Endeavorised/FIM) File Integrity Monitor that hashes all changes made on a directory 
+I'm a new GitHub user exploring the world of coding and security-related projects.
+About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.com/users/988130680917610647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/988130680917610647" height="30" width="40" /></a>
-</p>
+const endeavorised = {
+  pronouns: "He" | "Him",
+  code: ["Python", "JavaScript", "Bash"],
+  currentlyLearning: "Cybersecurity & Penetration Testing",
+  askMeAbout: ["security", "personal projects", "learning new tech"],
+  technologies: {
+    securityTools: ["File Integrity Tool"],
+    frontEnd: {
+      languages: ["HTML", "CSS"],
+      frameworks: ["Bootstrap"]
+    },
+    backEnd: {
+      languages: ["Python"],
+      frameworks: ["Flask"]
+    },
+    devOps: ["Docker", "Git"],
+    databases: ["SQLite"]
+  },
+  funFact: "I'm passionate about cybersecurity and data protection."
+}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+Projects
 
+    Endeavorised - Personal project repository.
+    FIM - File Integrity Tool for security purposes.
+
+GitHub Activity
+
+    Created account on March 13, 2023
+    2 public repositories
+    6 commits
+    Rising cybersecurity enthusiast
+
+Get in Touch
+
+    Connect with me on LinkedIn
+    Shoot me an email at endeavorised@email.com
+
+GitHub Stats
+
+GitHub Stats Top Languages Trophy GitHub Streak
+Let's Collaborate
+
+I'm always looking to connect, share knowledge, and grow together. Feel free to reach out! 🚀
+
+GitHub LinkedIn
+
+Looking forward to engaging with the amazing GitHub community! 🌟

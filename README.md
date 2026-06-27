@@ -36,18 +36,9 @@ GitHub Activity
     6 commits
     Rising cybersecurity enthusiast
 
-Get in Touch
-
-    Connect with me on LinkedIn
-    Shoot me an email at endeavorised@email.com
-
-GitHub Stats
-
 GitHub Stats Top Languages Trophy GitHub Streak
 Let's Collaborate
 
 I'm always looking to connect, share knowledge, and grow together. Feel free to reach out! 🚀
-
-GitHub LinkedIn
 
 Looking forward to engaging with the amazing GitHub community! 🌟
